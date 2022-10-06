@@ -1,3 +1,10 @@
+Slack Clone
+Created with React, Redux, Firebase Authentication, Firebase Hosting, and Firebase Database.
+
+To access Slack Clone, go to: https://slack-clone-8e0af.web.app
+
+-To logout, just press the avatar on the top left.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
